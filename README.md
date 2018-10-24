@@ -1,3 +1,3 @@
-# LinuxScripts
+# All-Purpose LinuxScripts
 
 Linux Scripts for all types of purposes. Happy hardening :)
