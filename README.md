@@ -1,3 +1,3 @@
-# All-Purpose LinuxScripts
+# Ubnutu Scripts
 
-Linux Scripts for all types of purposes. Happy hardening :)
+Helpful all purpose scripts for Ubuntu-based machines
