@@ -1,5 +1,7 @@
-# Linux Scripts
+# Linux Scripts for Ubuntu
 
-Helpful all purpose scripts for Ubuntu-based machines.
+These scripts work for Ubuntu or any linux using apt package manager
 
-More distros soon to come!
+RemoveBloat.sh -This removes bloatware from a list of programs 
+
+Update.sh -This updates,updgrades,dist-upgrades and autoremoves the system
