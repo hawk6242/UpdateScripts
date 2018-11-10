@@ -1,6 +1,8 @@
 #!/bin/bash
  
-if [[ $(lsb_release -rs) > 16 ]]; then
+ #Updates, Upgrades, Distro Upgrade, and autoremoves all irrelevant packages
+ 
+if [[ $(lsb_release -rs) > 16 ]]; then #This runs if the version of 
   sudo apt update -y
   sudo apt upgrade -y
   sudo apt dist-upgrade -y
